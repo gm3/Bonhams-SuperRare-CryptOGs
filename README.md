@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/WBEHkWt.png)](https://hubs.mozilla.com/pwhF9Gv/bonhams-superrare-cryptogs)
+[![](https://i.imgur.com/It4M3wX.jpg)](https://hubs.mozilla.com/pwhF9Gv/bonhams-superrare-cryptogs)
 *Click to enter in your browser*
 
 # Bonhams & SuperRare Presents: CryptOGs, The Pioneers of NFT Art (Virtual Gallery Exhibition)
