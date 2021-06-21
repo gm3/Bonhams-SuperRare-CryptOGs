@@ -37,7 +37,7 @@ You can access the gallery in your browser from a PC, as well as in VR. It is hi
 ## [Coldie](https://twitter.com/Coldie)
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5468416/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/IqdOQJJ.png)
+<div style="text-align:center"><img src="https://i.imgur.com/IqdOQJJ.png" /></div>
 
 
 ### Proof of Work - Genesis
@@ -51,7 +51,7 @@ ___
 ## [Matt Kane](https://twitter.com/mattkaneartist)
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469599/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/7fxRbYq.png)
+<div style="text-align:center"><img src="https://i.imgur.com/7fxRbYq.png" /></div>
 
 
 ### M87 Black Hole Deconstruction #9
@@ -65,7 +65,7 @@ Conceived on April 10, 2019. Animated on June 10, 2021. NFT owner unlocks exclus
 ## [Sarah Zucker](https://twitter.com/thesarahshow)
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469600/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/h1H38Rp.png)
+<div style="text-align:center"><img src="https://i.imgur.com/h1H38Rp.png" /></div>
 
 ### Space Loaf
 
@@ -77,7 +77,7 @@ Space Loaf hovers through the cosmic Ether. It’s not Here, and it’s not Then
 ## [Osinachi](https://twitter.com/osinachiart)
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469601/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/5SRYqUJ.png)
+<div style="text-align:center"><img src="https://i.imgur.com/5SRYqUJ.png" /></div>
 
 ### In Touch
 This is a tribute to the artist's Igbo heritage where the leopard is a symbol of strength and masquerades serve as a bridge between the ancestors and the living. The present work features in “Bonhams & SuperRare: CryptOGs, The Pioneers of NFT Art, June 21st-30th 2021”, Lot 5”
@@ -88,7 +88,7 @@ This is a tribute to the artist's Igbo heritage where the leopard is a symbol of
 
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469598/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/VruaFVr.png)
+<div style="text-align:center"><img src="https://i.imgur.com/VruaFVr.png" /></div>
 
 
 ### The Death Of Cash
@@ -100,7 +100,7 @@ Description: < < < < < SORRY ANON > > > > > Important blurb: The present work fe
 
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469597/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/Nvf32qT.png)
+<div style="text-align:center"><img src="https://i.imgur.com/Nvf32qT.png" /></div>
 
 ### Pauline at the Mall
 
@@ -110,7 +110,7 @@ Description: < < < < < SORRY ANON > > > > > Important blurb: The present work fe
 
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469602/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/7RhqZ6n.png)
+<div style="text-align:center"><img src="https://i.imgur.com/7RhqZ6n.png" /></div>
 
 ### Cybaroque Borghese
 Ancient trees glitch in the virtual Valley of the Trees as Canova’s masterpiece is lit up with graffiti mask. The Cybaroque Quantum computer programme for Villa Borghese was one of the most popular downloads in 2080. She could step into the AI Baroque landscape and drape herself in front of the Villa and be transported back into her beloved Roma. Closing her eyes, she switched on the neon wire frames pulsating Italian arias all around the virtual Villa. Like the marble statue of Princess Paolina Borghese, she was forever a young and beautiful Venus in the Cybaroque Borghese Gardens." The present work features in “Bonhams & SuperRare: CryptOGs, The Pioneers of NFT Art, June 21st-30th 2021”, Lot 7
@@ -121,7 +121,7 @@ Ancient trees glitch in the virtual Valley of the Trees as Canova’s masterpiec
 
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469603/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/lmiGMi6.png)
+<div style="text-align:center"><img src="https://i.imgur.com/lmiGMi6.png" /></div>
 
 ### Spinning Circle
 The theme of the circle is a thing that every now and then appears in my artistic path, and this is the first time that I've decided to experiment it in my "rubberstamp" technique and in a color combination that you don't find often in my other pieces. This is my very first animated rubberstamped piece of 2021. The whole system that I've used to create this artwork is made by me, from the stamps to the sheets and in the final stage the digitalization. One more time, from analog to digital. The present work features in “Bonhams & SuperRare: CryptOGs, The Pioneers of NFT Art, June 21st-30th 2021”, Lot 8”
@@ -132,7 +132,7 @@ The theme of the circle is a thing that every now and then appears in my artisti
 
 [Auction URL](https://www.bonhams.com/auctions/27285/preview_lot/5469604/?category=list&length=12&page=1)
 
-![](https://i.imgur.com/T3Dw6ae.png)
+<div style="text-align:center"><img src="https://i.imgur.com/T3Dw6ae.png" /></div>
 
 ### uNtitlEd
 
