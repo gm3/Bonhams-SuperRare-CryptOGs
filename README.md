@@ -153,4 +153,4 @@ Artists
 
 Curators: [SuperRare](https://twitter.com/superrare) / [Bonhams](https://twitter.com/bonhams1793)
 Virtual Gallery Production: [Godfrey Meyer](https://twitter.com/godfreymeyer)
-[Link To This Page](https://gm3.github.io/bonhams-superrare-cryptogs/)
+[Link To This Page](https://gm3.github.io/Bonhams-SuperRare-CryptOGs/)
